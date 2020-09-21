@@ -18,3 +18,7 @@ My collection of modern OpenGL tutorials and examples
 [Example04](https://github.com/emelyantsev/my-modern-opengl/tree/master/04_cube_varying_color_instancing)
 
 <img src="/images/program04.png" alt="screenshot2" width="400"/>
+
+[Example05](https://github.com/emelyantsev/my-modern-opengl/tree/master/05_cube_and_pyramid)
+
+<img src="/images/program05.png" alt="screenshot2" width="400"/>

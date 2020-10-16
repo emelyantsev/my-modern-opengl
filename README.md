@@ -30,3 +30,7 @@ My collection of modern OpenGL tutorials and examples
 [Example07](https://github.com/emelyantsev/my-modern-opengl/tree/master/07_pyramid_with_brick_texture)
 
 <img src="/images/program07.png" alt="screenshot2" width="400"/>
+
+[Example08](https://github.com/emelyantsev/my-modern-opengl/tree/master/08_sphere)
+
+<img src="/images/program08.png" alt="screenshot2" width="400"/>

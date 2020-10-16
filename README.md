@@ -26,3 +26,7 @@ My collection of modern OpenGL tutorials and examples
 [Example06](https://github.com/emelyantsev/my-modern-opengl/tree/master/06_simple_solar_system)
 
 <img src="/images/program06.png" alt="screenshot2" width="400"/>
+
+[Example07](https://github.com/emelyantsev/my-modern-opengl/tree/master/07_pyramid_with_brick_texture)
+
+<img src="/images/program07.png" alt="screenshot2" width="400"/>
